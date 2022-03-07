@@ -5,4 +5,6 @@ Intro:
 
 Implementation:
          We can implement this in trading in many ways. This project uses the RSI in the following way: If the RSI is below 30, the script will buy as many shares as we can afford once the RSI crosses over 30. If the RSI is above 70, the script will sell as many shares as we have once the RSI crosses back below 70. The script will do so for the given period on the interval of 1 Day over the past year in the Jupyter Notebook seen below, however, that is easily modified.
+         
+See the Jupyter Notebook Attached!
 
